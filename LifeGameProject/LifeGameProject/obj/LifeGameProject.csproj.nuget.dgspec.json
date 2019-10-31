@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sinaC\\Desktop\\LifeGameProject\\LifeGameProject\\LifeGameProject.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sinaC\\Desktop\\LifeGameProject\\LifeGameProject\\LifeGameProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sinaC\\Desktop\\LifeGameProject\\LifeGameProject\\LifeGameProject.csproj",
+        "projectName": "LifeGameProject",
+        "projectPath": "C:\\Users\\sinaC\\Desktop\\LifeGameProject\\LifeGameProject\\LifeGameProject.csproj",
+        "packagesPath": "C:\\Users\\sinaC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sinaC\\Desktop\\LifeGameProject\\LifeGameProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\sinaC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            },
+            "Prism.DryIoc": {
+              "target": "Package",
+              "version": "[7.2.0.1367, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
